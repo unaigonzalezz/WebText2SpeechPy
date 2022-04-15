@@ -1,3 +1,3 @@
 # WebText2SpeechPy
 
-For playing use "py RPS.py"
+For playing use "py t2s.py"
