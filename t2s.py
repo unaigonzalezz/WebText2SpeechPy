@@ -53,7 +53,7 @@ if languagechoose == 4:
 
 if languagechoose == 5:
     language = ("fr")
-    rint("You have chosen French!")
+    print("You have chosen French!")
 
 print("Loading... Please wait :) ")
 print("May be slow if the article is too long")
